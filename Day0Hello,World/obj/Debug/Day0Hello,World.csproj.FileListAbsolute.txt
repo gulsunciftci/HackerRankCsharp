@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\bin\Debug\Day0Hello,World.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\bin\Debug\Day0Hello,World.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\bin\Debug\Day0Hello,World.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\obj\Debug\Day0Hello,World.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\obj\Debug\Day0Hello,World.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\obj\Debug\Day0Hello,World.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\obj\Debug\Day0Hello,World.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day0Hello,World\obj\Debug\Day0Hello,World.pdb
