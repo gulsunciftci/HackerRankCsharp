@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\bin\Debug\Day3IntrotoConditionalStatements.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\bin\Debug\Day3IntrotoConditionalStatements.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\bin\Debug\Day3IntrotoConditionalStatements.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\obj\Debug\Day3IntrotoConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\obj\Debug\Day3IntrotoConditionalStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\obj\Debug\Day3IntrotoConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\obj\Debug\Day3IntrotoConditionalStatements.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day3IntrotoConditionalStatements\obj\Debug\Day3IntrotoConditionalStatements.pdb
