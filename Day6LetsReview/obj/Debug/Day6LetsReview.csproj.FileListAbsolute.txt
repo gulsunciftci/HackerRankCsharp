@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\bin\Debug\Day6LetsReview.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\bin\Debug\Day6LetsReview.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\bin\Debug\Day6LetsReview.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\obj\Debug\Day6LetsReview.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\obj\Debug\Day6LetsReview.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\obj\Debug\Day6LetsReview.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\obj\Debug\Day6LetsReview.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day6LetsReview\obj\Debug\Day6LetsReview.pdb
