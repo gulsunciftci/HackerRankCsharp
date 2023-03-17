@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\bin\Debug\Day2Operators.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\bin\Debug\Day2Operators.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\bin\Debug\Day2Operators.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\obj\Debug\Day2Operators.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\obj\Debug\Day2Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\obj\Debug\Day2Operators.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\obj\Debug\Day2Operators.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day2Operators\obj\Debug\Day2Operators.pdb
