@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\bin\Debug\Day7Arrays.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\bin\Debug\Day7Arrays.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\bin\Debug\Day7Arrays.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\obj\Debug\Day7Arrays.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\obj\Debug\Day7Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\obj\Debug\Day7Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\obj\Debug\Day7Arrays.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day7Arrays\obj\Debug\Day7Arrays.pdb
