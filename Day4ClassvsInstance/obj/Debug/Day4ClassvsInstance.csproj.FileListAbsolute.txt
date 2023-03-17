@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\bin\Debug\Day4ClassvsInstance.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\bin\Debug\Day4ClassvsInstance.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\bin\Debug\Day4ClassvsInstance.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\obj\Debug\Day4ClassvsInstance.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\obj\Debug\Day4ClassvsInstance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\obj\Debug\Day4ClassvsInstance.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\obj\Debug\Day4ClassvsInstance.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day4ClassvsInstance\obj\Debug\Day4ClassvsInstance.pdb
