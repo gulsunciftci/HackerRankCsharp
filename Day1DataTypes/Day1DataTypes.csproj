@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8A5A3EA1-4B0B-4040-AFC0-194D09D4897A}</ProjectGuid>
+    <ProjectGuid>{5E475A5C-F26A-46FE-A1A2-8CCD6102CC3F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HackerRankCsharp</RootNamespace>
-    <AssemblyName>HackerRankCsharp</AssemblyName>
+    <RootNamespace>Day1DataTypes</RootNamespace>
+    <AssemblyName>Day1DataTypes</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

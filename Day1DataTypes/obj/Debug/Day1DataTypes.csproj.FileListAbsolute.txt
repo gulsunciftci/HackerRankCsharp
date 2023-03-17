@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\bin\Debug\Day1DataTypes.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\bin\Debug\Day1DataTypes.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\bin\Debug\Day1DataTypes.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\obj\Debug\Day1DataTypes.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\obj\Debug\Day1DataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\obj\Debug\Day1DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\obj\Debug\Day1DataTypes.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day1DataTypes\obj\Debug\Day1DataTypes.pdb

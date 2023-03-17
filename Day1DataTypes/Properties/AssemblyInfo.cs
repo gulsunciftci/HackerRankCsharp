@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HackerRankCsharp")]
+[assembly: AssemblyTitle("Day1DataTypes")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HackerRankCsharp")]
+[assembly: AssemblyProduct("Day1DataTypes")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8a5a3ea1-4b0b-4040-afc0-194d09d4897a")]
+[assembly: Guid("5e475a5c-f26a-46fe-a1a2-8ccd6102cc3f")]
 
 // Version information for an assembly consists of the following four values:
 //
