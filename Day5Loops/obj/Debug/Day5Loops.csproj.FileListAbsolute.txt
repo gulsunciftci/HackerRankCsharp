@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\bin\Debug\Day5Loops.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\bin\Debug\Day5Loops.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\bin\Debug\Day5Loops.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\obj\Debug\Day5Loops.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\obj\Debug\Day5Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\obj\Debug\Day5Loops.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\obj\Debug\Day5Loops.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day5Loops\obj\Debug\Day5Loops.pdb
