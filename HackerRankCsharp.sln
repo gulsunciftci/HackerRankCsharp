@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6LetsReview", "Day6LetsR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7Arrays", "Day7Arrays\Day7Arrays.csproj", "{8A3120D8-B613-4E9B-82A3-2DCEDB36A826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8DictionariesandMaps", "Day8DictionariesandMaps\Day8DictionariesandMaps.csproj", "{C6167EFA-C05F-44A2-A74E-90325C02CF13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8A3120D8-B613-4E9B-82A3-2DCEDB36A826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3120D8-B613-4E9B-82A3-2DCEDB36A826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3120D8-B613-4E9B-82A3-2DCEDB36A826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6167EFA-C05F-44A2-A74E-90325C02CF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6167EFA-C05F-44A2-A74E-90325C02CF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6167EFA-C05F-44A2-A74E-90325C02CF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6167EFA-C05F-44A2-A74E-90325C02CF13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

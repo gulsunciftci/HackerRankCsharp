@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\bin\Debug\Day8DictionariesandMaps.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\bin\Debug\Day8DictionariesandMaps.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\bin\Debug\Day8DictionariesandMaps.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\obj\Debug\Day8DictionariesandMaps.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\obj\Debug\Day8DictionariesandMaps.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\obj\Debug\Day8DictionariesandMaps.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\obj\Debug\Day8DictionariesandMaps.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day8DictionariesandMaps\obj\Debug\Day8DictionariesandMaps.pdb
