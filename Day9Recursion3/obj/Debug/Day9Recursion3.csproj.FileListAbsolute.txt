@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\bin\Debug\Day9Recursion3.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\bin\Debug\Day9Recursion3.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\bin\Debug\Day9Recursion3.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\obj\Debug\Day9Recursion3.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\obj\Debug\Day9Recursion3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\obj\Debug\Day9Recursion3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\obj\Debug\Day9Recursion3.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day9Recursion3\obj\Debug\Day9Recursion3.pdb
