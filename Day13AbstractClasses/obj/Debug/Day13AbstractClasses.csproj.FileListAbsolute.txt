@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\bin\Debug\Day13AbstractClasses.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\bin\Debug\Day13AbstractClasses.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\bin\Debug\Day13AbstractClasses.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\obj\Debug\Day13AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\obj\Debug\Day13AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\obj\Debug\Day13AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\obj\Debug\Day13AbstractClasses.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day13AbstractClasses\obj\Debug\Day13AbstractClasses.pdb
