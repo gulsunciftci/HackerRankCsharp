@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17MoreExceptions", "Day1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day18QueuesandStacks", "Day18QueuesandStacks\Day18QueuesandStacks.csproj", "{A949CDC2-C5C2-46EF-BB2E-414263D69346}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day19Interfaces", "Day19Interfaces\Day19Interfaces.csproj", "{F30AEF98-BBEB-456D-BC01-8BF9BAF8A93F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{A949CDC2-C5C2-46EF-BB2E-414263D69346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A949CDC2-C5C2-46EF-BB2E-414263D69346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A949CDC2-C5C2-46EF-BB2E-414263D69346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30AEF98-BBEB-456D-BC01-8BF9BAF8A93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30AEF98-BBEB-456D-BC01-8BF9BAF8A93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30AEF98-BBEB-456D-BC01-8BF9BAF8A93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30AEF98-BBEB-456D-BC01-8BF9BAF8A93F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

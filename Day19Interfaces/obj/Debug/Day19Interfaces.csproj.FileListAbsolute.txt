@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\bin\Debug\Day19Interfaces.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\bin\Debug\Day19Interfaces.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\bin\Debug\Day19Interfaces.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\obj\Debug\Day19Interfaces.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\obj\Debug\Day19Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\obj\Debug\Day19Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\obj\Debug\Day19Interfaces.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day19Interfaces\obj\Debug\Day19Interfaces.pdb
