@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\bin\Debug\Day14Scope.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\bin\Debug\Day14Scope.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\bin\Debug\Day14Scope.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\obj\Debug\Day14Scope.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\obj\Debug\Day14Scope.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\obj\Debug\Day14Scope.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\obj\Debug\Day14Scope.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day14Scope\obj\Debug\Day14Scope.pdb
