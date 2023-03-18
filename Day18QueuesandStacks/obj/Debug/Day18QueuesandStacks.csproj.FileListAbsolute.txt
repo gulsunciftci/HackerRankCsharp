@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\bin\Debug\Day18QueuesandStacks.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\bin\Debug\Day18QueuesandStacks.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\bin\Debug\Day18QueuesandStacks.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\obj\Debug\Day18QueuesandStacks.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\obj\Debug\Day18QueuesandStacks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\obj\Debug\Day18QueuesandStacks.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\obj\Debug\Day18QueuesandStacks.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day18QueuesandStacks\obj\Debug\Day18QueuesandStacks.pdb
