@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\bin\Debug\Day12Inheritance.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\bin\Debug\Day12Inheritance.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\bin\Debug\Day12Inheritance.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\obj\Debug\Day12Inheritance.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\obj\Debug\Day12Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\obj\Debug\Day12Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\obj\Debug\Day12Inheritance.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day12Inheritance\obj\Debug\Day12Inheritance.pdb
