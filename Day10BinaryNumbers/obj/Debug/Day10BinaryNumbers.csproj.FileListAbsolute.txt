@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\bin\Debug\Day10BinaryNumbers.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\bin\Debug\Day10BinaryNumbers.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\bin\Debug\Day10BinaryNumbers.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\obj\Debug\Day10BinaryNumbers.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\obj\Debug\Day10BinaryNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\obj\Debug\Day10BinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\obj\Debug\Day10BinaryNumbers.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day10BinaryNumbers\obj\Debug\Day10BinaryNumbers.pdb
