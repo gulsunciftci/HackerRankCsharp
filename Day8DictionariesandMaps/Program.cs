@@ -10,28 +10,31 @@ namespace Day8DictionariesandMaps
     {
         static void Main(string[] args)
         {
-            Dictionary<string, string> nameNum = new Dictionary<string, string>();
+            Dictionary<string, int> phones = new Dictionary<string, int>();
             int n = int.Parse(Console.ReadLine());
             if ((n >= 1) && (n <= 100000))
             {
                 for (int i = 0; i < n; i++)
                 {
-                    List<string> arr = Console.ReadLine().TrimEnd().Split(' ').ToList();
-                    nameNum.Add(arr[0], arr[1]);
-                }
-                for (int j = 0; j < n; j++)
-                {
-                    string search = Console.ReadLine();
+                    List<string> arr = Console.ReadLine().Trim().Split(' ').ToList();
+                    phones[arr[0].Trim()] = int.Parse(arr[1].Trim());
 
-                    if (nameNum.ContainsKey(search))
+                }
+                string search = string.Empty;
+                while ((search = Console.ReadLine()) != null)
+                {
+
+                    if (phones.ContainsKey(search))
                     {
-                        Console.WriteLine(search + "={0}", nameNum[search]);
+
+                        Console.WriteLine(search + "={0}", phones[search]);
+
+
                     }
                     else
                     {
                         Console.WriteLine("Not found");
                     }
-
                 }
             }
         }
