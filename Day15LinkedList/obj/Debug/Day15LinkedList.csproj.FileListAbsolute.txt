@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\bin\Debug\Day15LinkedList.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\bin\Debug\Day15LinkedList.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\bin\Debug\Day15LinkedList.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\obj\Debug\Day15LinkedList.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\obj\Debug\Day15LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\obj\Debug\Day15LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\obj\Debug\Day15LinkedList.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day15LinkedList\obj\Debug\Day15LinkedList.pdb
