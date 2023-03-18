@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day14Scope", "Day14Scope\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day15LinkedList", "Day15LinkedList\Day15LinkedList.csproj", "{115FD7CE-EF01-4AF0-9AFB-1C0097ECE68E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day16ExceptionsStringtoInteger", "Day16ExceptionsStringtoInteger\Day16ExceptionsStringtoInteger.csproj", "{C074266D-0140-4087-83B3-2967BFB75428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17MoreExceptions", "Day17MoreExceptions\Day17MoreExceptions.csproj", "{7D4E4286-DC31-45E3-8A90-343949A17BE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{115FD7CE-EF01-4AF0-9AFB-1C0097ECE68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{115FD7CE-EF01-4AF0-9AFB-1C0097ECE68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{115FD7CE-EF01-4AF0-9AFB-1C0097ECE68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C074266D-0140-4087-83B3-2967BFB75428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C074266D-0140-4087-83B3-2967BFB75428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C074266D-0140-4087-83B3-2967BFB75428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C074266D-0140-4087-83B3-2967BFB75428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4E4286-DC31-45E3-8A90-343949A17BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4E4286-DC31-45E3-8A90-343949A17BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4E4286-DC31-45E3-8A90-343949A17BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4E4286-DC31-45E3-8A90-343949A17BE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\bin\Debug\Day16ExceptionsStringtoInteger.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\bin\Debug\Day16ExceptionsStringtoInteger.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\bin\Debug\Day16ExceptionsStringtoInteger.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\obj\Debug\Day16ExceptionsStringtoInteger.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\obj\Debug\Day16ExceptionsStringtoInteger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\obj\Debug\Day16ExceptionsStringtoInteger.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\obj\Debug\Day16ExceptionsStringtoInteger.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day16ExceptionsStringtoInteger\obj\Debug\Day16ExceptionsStringtoInteger.pdb

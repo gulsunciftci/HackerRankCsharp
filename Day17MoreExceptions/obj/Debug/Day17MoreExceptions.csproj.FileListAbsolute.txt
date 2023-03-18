@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\bin\Debug\Day17MoreExceptions.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\bin\Debug\Day17MoreExceptions.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\bin\Debug\Day17MoreExceptions.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\obj\Debug\Day17MoreExceptions.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\obj\Debug\Day17MoreExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\obj\Debug\Day17MoreExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\obj\Debug\Day17MoreExceptions.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day17MoreExceptions\obj\Debug\Day17MoreExceptions.pdb
