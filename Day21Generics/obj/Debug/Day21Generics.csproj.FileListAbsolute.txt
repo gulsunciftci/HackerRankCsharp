@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\bin\Debug\Day21Generics.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\bin\Debug\Day21Generics.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\bin\Debug\Day21Generics.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\obj\Debug\Day21Generics.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\obj\Debug\Day21Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\obj\Debug\Day21Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\obj\Debug\Day21Generics.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day21Generics\obj\Debug\Day21Generics.pdb
