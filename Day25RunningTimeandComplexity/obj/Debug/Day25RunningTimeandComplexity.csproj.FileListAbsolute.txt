@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\bin\Debug\Day25RunningTimeandComplexity.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\bin\Debug\Day25RunningTimeandComplexity.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\bin\Debug\Day25RunningTimeandComplexity.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\obj\Debug\Day25RunningTimeandComplexity.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\obj\Debug\Day25RunningTimeandComplexity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\obj\Debug\Day25RunningTimeandComplexity.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\obj\Debug\Day25RunningTimeandComplexity.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day25RunningTimeandComplexity\obj\Debug\Day25RunningTimeandComplexity.pdb
