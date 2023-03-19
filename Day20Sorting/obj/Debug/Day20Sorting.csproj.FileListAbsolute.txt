@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\bin\Debug\Day20Sorting.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\bin\Debug\Day20Sorting.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\bin\Debug\Day20Sorting.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\obj\Debug\Day20Sorting.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\obj\Debug\Day20Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\obj\Debug\Day20Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\obj\Debug\Day20Sorting.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day20Sorting\obj\Debug\Day20Sorting.pdb
