@@ -1,13 +1,14 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day22BinarySearchTrees
+namespace Day23BSTLevelOrderTraversal
 {
-    public class Program
-    { 
+   public class Program
+    {
         static void Main(string[] args)
         {
             Node root = null;
@@ -17,19 +18,30 @@ namespace Day22BinarySearchTrees
                 int data = Int32.Parse(Console.ReadLine());
                 root = insert(root, data);
             }
-            int height = getHeight(root);
-            Console.WriteLine(height);
+            levelOrder(root);
+
         }
 
-        static int getHeight(Node root)
+        static void levelOrder(Node root)
         {
             //Write your code here
-            if (root == null)
-            {
-                return -1;
-            }
+            Queue Q = new Queue();
+            Q.Enqueue(root);
 
-            return 1 + Math.Max(getHeight(root.left), getHeight(root.right));
+            while (Q.Count > 0)
+            {
+                Node curNode = (Node)Q.Peek();
+                if (curNode.left != null)
+                {
+                    Q.Enqueue(curNode.left);
+                }
+                if (curNode.right != null)
+                {
+                    Q.Enqueue(curNode.right);
+                }
+                Console.Write(curNode.data + " ");
+                Q.Dequeue();
+            }
         }
 
         static Node insert(Node root, int data)
