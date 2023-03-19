@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20Sorting", "Day20Sortin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21Generics", "Day21Generics\Day21Generics.csproj", "{6D68E11E-37B5-449F-8129-F97B2791A8F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22BinarySearchTrees", "Day22BinarySearchTrees\Day22BinarySearchTrees.csproj", "{BAE5CFC9-1801-4A0A-91D7-C1E4EFD01000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{6D68E11E-37B5-449F-8129-F97B2791A8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D68E11E-37B5-449F-8129-F97B2791A8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D68E11E-37B5-449F-8129-F97B2791A8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE5CFC9-1801-4A0A-91D7-C1E4EFD01000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE5CFC9-1801-4A0A-91D7-C1E4EFD01000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE5CFC9-1801-4A0A-91D7-C1E4EFD01000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE5CFC9-1801-4A0A-91D7-C1E4EFD01000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
