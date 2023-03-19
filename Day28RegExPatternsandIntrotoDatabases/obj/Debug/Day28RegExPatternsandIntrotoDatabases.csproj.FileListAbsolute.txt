@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\bin\Debug\Day28RegExPatternsandIntrotoDatabases.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\bin\Debug\Day28RegExPatternsandIntrotoDatabases.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\bin\Debug\Day28RegExPatternsandIntrotoDatabases.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\obj\Debug\Day28RegExPatternsandIntrotoDatabases.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\obj\Debug\Day28RegExPatternsandIntrotoDatabases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\obj\Debug\Day28RegExPatternsandIntrotoDatabases.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\obj\Debug\Day28RegExPatternsandIntrotoDatabases.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day28RegExPatternsandIntrotoDatabases\obj\Debug\Day28RegExPatternsandIntrotoDatabases.pdb
