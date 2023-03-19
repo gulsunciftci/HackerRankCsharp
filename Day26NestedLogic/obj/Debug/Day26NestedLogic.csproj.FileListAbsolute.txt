@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\bin\Debug\Day26NestedLogic.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\bin\Debug\Day26NestedLogic.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\bin\Debug\Day26NestedLogic.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\obj\Debug\Day26NestedLogic.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\obj\Debug\Day26NestedLogic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\obj\Debug\Day26NestedLogic.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\obj\Debug\Day26NestedLogic.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day26NestedLogic\obj\Debug\Day26NestedLogic.pdb
