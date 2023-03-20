@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\bin\Debug\Day29BitwiseAND.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\bin\Debug\Day29BitwiseAND.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\bin\Debug\Day29BitwiseAND.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\obj\Debug\Day29BitwiseAND.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\obj\Debug\Day29BitwiseAND.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\obj\Debug\Day29BitwiseAND.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\obj\Debug\Day29BitwiseAND.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\Day29BitwiseAND\obj\Debug\Day29BitwiseAND.pdb
