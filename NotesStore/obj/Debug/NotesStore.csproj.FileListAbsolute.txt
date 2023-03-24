@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\bin\Debug\NotesStore.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\bin\Debug\NotesStore.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\bin\Debug\NotesStore.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\obj\Debug\NotesStore.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\obj\Debug\NotesStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\obj\Debug\NotesStore.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\obj\Debug\NotesStore.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\NotesStore\obj\Debug\NotesStore.pdb
