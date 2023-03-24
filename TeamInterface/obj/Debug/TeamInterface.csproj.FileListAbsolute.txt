@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\bin\Debug\TeamInterface.exe.config
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\bin\Debug\TeamInterface.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\bin\Debug\TeamInterface.pdb
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\obj\Debug\TeamInterface.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\obj\Debug\TeamInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\obj\Debug\TeamInterface.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\obj\Debug\TeamInterface.exe
+C:\Users\Hp\source\repos\HackerRankCsharp\TeamInterface\obj\Debug\TeamInterface.pdb
